@@ -1,1 +1,2 @@
 Tarea finalizada: Configurar git
+Finaliado el commit inicial
